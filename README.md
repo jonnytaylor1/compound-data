@@ -16,6 +16,7 @@ pip3 install -r requirements.txt
 ```
 python3 data_pruning.py
 ```
+2 CSV files should be generated and named assay_filtered.csv and ic50_and_label.csv
 
 ### Start Flask Server
 
