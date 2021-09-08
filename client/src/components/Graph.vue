@@ -136,7 +136,6 @@ export default {
         }
     }
 }
-//document instructions
 </script>
 
 <style scoped>
